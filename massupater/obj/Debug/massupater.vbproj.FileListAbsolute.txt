@@ -1,0 +1,9 @@
+C:\Users\Jamie Smith\source\repos\massupater\massupater\bin\Debug\massupater.dll
+C:\Users\Jamie Smith\source\repos\massupater\massupater\bin\Debug\massupater.pdb
+C:\Users\Jamie Smith\source\repos\massupater\massupater\bin\Debug\massupater.xml
+C:\Users\Jamie Smith\source\repos\massupater\massupater\obj\Debug\massupater.vbprojAssemblyReference.cache
+C:\Users\Jamie Smith\source\repos\massupater\massupater\obj\Debug\massupater.vbproj.ResolveComReference.cache
+C:\Users\Jamie Smith\source\repos\massupater\massupater\obj\Debug\massupater.vbproj.CoreCompileInputs.cache
+C:\Users\Jamie Smith\source\repos\massupater\massupater\obj\Debug\massupater.dll
+C:\Users\Jamie Smith\source\repos\massupater\massupater\obj\Debug\massupater.xml
+C:\Users\Jamie Smith\source\repos\massupater\massupater\obj\Debug\massupater.pdb

@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor 2016 (Version 18.0) and above-->
+  <ClassId>{8a6e9408-b3de-42ad-809c-012ddea5d5b1}</ClassId>
+  <ClientId>{8a6e9408-b3de-42ad-809c-012ddea5d5b1}</ClientId>
+  <DisplayName>massupater</DisplayName>
+  <Description>massupater</Description>
+  <Assembly>massupater.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>18..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>

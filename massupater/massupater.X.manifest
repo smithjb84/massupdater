@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity name="massupater" version="1.0.0.0"></assemblyIdentity>
+  <clrClass clsid="{8a6e9408-b3de-42ad-809c-012ddea5d5b1}" progid="massupater.StandardAddInServer" threadingModel="Both" name="massupater.massupater.StandardAddInServer" runtimeVersion=""></clrClass>
+  <file name="massupater.dll" hashalg="SHA1"></file>
+</assembly>
